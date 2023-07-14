@@ -1,0 +1,11 @@
+# IDEs
+.vscode/
+
+# Python generated files
+*.py[cod]
+__pycache__/
+
+# LKH
+resources/lkh/
+
+.tmuxinator.yml

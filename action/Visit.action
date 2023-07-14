@@ -1,0 +1,10 @@
+# Request
+mrs_msgs/Reference reference
+float32 safety_distance
+float32 dt
+---
+# Result
+bool success
+---
+# Progress
+float32 distance
